@@ -1,0 +1,46 @@
+/*header de la pagina*/
+.header {
+  background: #007bf9;
+  height: 180px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+/*html,
+body {
+  height: 100%;
+   The html and body elements cannot have any padding or margin. 
+}*/
+.header h1{
+  color: #ffffff;
+  font-size: 50px;
+  padding: 20px;
+  text-align: left;
+}
+.header p{
+  color: #ffffff;
+  font-size: 20px;
+  padding-left: 25px;
+  text-align: left;
+}
+.foot{
+  padding-top: 40px;
+}
+.escoger:link{
+  color: #000000;
+  text-decoration: none;
+}
+.escoger:hover{
+  color: #000000;
+}
+#logo {
+  margin-top: 7px;
+  margin-left:-298px; 
+}
+.descarga {
+  margin-left: 20px;
+  display: block;
+  width: 100px;
+  background-color: green;
+  font-size: 20px;
+  color: white;
+}
